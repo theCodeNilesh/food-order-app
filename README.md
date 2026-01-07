@@ -35,3 +35,10 @@ Tomato is a full-stack **MERN food delivery application** that allows users to b
 
 ## 📁 Project Structure
 
+│
+├── frontend/ # React frontend
+│
+├── backend/ # Node + Express backend
+│
+└── README.md
+
